@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá, eu sou Karina Oliveira 👋
 
-<!--
-**kguiga/kguiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional de tecnologia com experiência em automação de processos, sistemas de decisão de crédito e desenvolvimento em Python.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- SQL
+- Git
+- APIs REST
+- Linux
+- MySQL
+- SQLite
+- Jenkins
+
+## Projetos em destaque
+
+🦁 Zoo Management System
+- Python
+- SQLite
+- Pytest
+
+🏪 Retail Sales Database
+- MySQL
+- SQL
+- Modelagem Relacional
+
+🏃 Marathon Event Hotsite
+- HTML
+- CSS
+- JavaScript
+
+🖥️ Linux LAMP Server Lab
+- Linux
+- Apache
+- MySQL
+
+## Atualmente estudando
+
+- FastAPI
+- PostgreSQL
+- Docker
+- AWS
+
+## Contato
+
+LinkedIn: linkedin.com/in/karina-gabriela-oliveira
